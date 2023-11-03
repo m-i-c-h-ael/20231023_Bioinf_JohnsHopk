@@ -9,6 +9,7 @@ def usage():
     -n  Specify THE parameter""")
 
 
+
 ################
 seq= 'AGCCTACTA'
 
